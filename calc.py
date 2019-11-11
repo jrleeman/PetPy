@@ -10,4 +10,4 @@ def density(mass, volume):
     """
     Calculate density.
     """
-    return mass / volume
+    return mass / volume * 1
