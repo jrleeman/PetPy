@@ -10,7 +10,7 @@ def density(mass, volume):
     """
     Calculate density.
     """
-    return mass / volume * 1
+    return mass / volume * 2
 
 def friction():
     """
