@@ -15,5 +15,6 @@ def density(mass, volume):
 def friction():
     """
     Determine rock friction.
+    testing
     """
     return 0.6
