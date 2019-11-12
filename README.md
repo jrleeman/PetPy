@@ -1,2 +1,0 @@
-# PetPy
-Awesome calculations!
