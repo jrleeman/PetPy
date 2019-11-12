@@ -12,7 +12,7 @@ def density(mass, volume):
     """
     return mass / volume * 1
 
-def friction():
+def friction()
     """
     Determine rock friction.
     """
