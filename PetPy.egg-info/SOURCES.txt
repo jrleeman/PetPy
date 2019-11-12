@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+PetPy.egg-info/PKG-INFO
+PetPy.egg-info/SOURCES.txt
+PetPy.egg-info/dependency_links.txt
+PetPy.egg-info/top_level.txt
+petpy/__init__.py
+petpy/calcs.py
+petpy/plots.py
